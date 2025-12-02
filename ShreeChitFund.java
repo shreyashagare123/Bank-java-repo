@@ -1,5 +1,5 @@
   import java.util.*;
- class ShreeChitFund
+ class APP
  {
      static Scanner sc = new Scanner(System.in);
      static String user;
@@ -365,4 +365,5 @@
 		}
 	}
      
+
  }
